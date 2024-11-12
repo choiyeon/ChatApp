@@ -1,0 +1,7 @@
+.env
+# 로컬 환경용 파일은 Git에 포함하지 않음
+.env.local
+# 노드 모듈 디렉토리
+node_modules/
+# Vite 빌드 파일
+/dist
