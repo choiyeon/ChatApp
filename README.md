@@ -1,4 +1,4 @@
-* # 🐾 ChatApp Service 🐾
+# 🐾 ChatApp Service 🐾
 
 웹 소캣을 활용한 간단한 채팅 서비스입니다.
 
